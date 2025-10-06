@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "archivo_datos": "evidencias_vorticidad.tar.gz",
+    "timestamp": "2025-10-06T16:27:12",
+    "configuraciones_total": 20
+  },
+  "analisis_vorticidad": {
+    "ratio_vorticidad": 0,
+    "media_escaleno": NaN,
+    "media_equilatero": NaN,
+    "n_escalenos": 15,
+    "n_equilateros": 5,
+    "conclusion": "SIN_EVIDENCIA_VORTICIDAD"
+  },
+  "resultados_detallados": [
+    {
+      "configuracion": "(2,3,4)",
+      "bispectro": NaN,
+      "tipo": "ESCALENO"
+    },
+    {
+      "configuracion": "(3,4,5)",
+      "bispectro": NaN,
+      "tipo": "ESCALENO"
+    },
+    {
+      "configuracion": "(4,5,6)",
+      "bispectro": NaN,
+      "tipo": "ESCALENO"
+    },
+    {
+      "configuracion": "(5,6,7)",
+      "bispectro": NaN,
+      "tipo": "ESCALENO"
+    },
+    {
+      "configuracion": "(6,7,8)",
+      "bispectro": NaN,
+      "tipo": "ESCALENO"
+    },
+    {
+      "configuracion": "(2,4,5)",
+      "bispectro": NaN,
+      "tipo": "ESCALENO"
+    },
+    {
+      "configuracion": "(3,5,6)",
+      "bispectro": NaN,
+      "tipo": "ESCALENO"
+    },
+    {
+      "configuracion": "(4,6,7)",
+      "bispectro": NaN,
+      "tipo": "ESCALENO"
+    },
+    {
+      "configuracion": "(5,7,8)",
+      "bispectro": NaN,
+      "tipo": "ESCALENO"
+    },
+    {
+      "configuracion": "(6,8,9)",
+      "bispectro": NaN,
+      "tipo": "ESCALENO"
+    },
+    {
+      "configuracion": "(2,5,6)",
+      "bispectro": NaN,
+      "tipo": "ESCALENO"
+    },
+    {
+      "configuracion": "(3,6,7)",
+      "bispectro": NaN,
+      "tipo": "ESCALENO"
+    },
+    {
+      "configuracion": "(4,7,8)",
+      "bispectro": NaN,
+      "tipo": "ESCALENO"
+    },
+    {
+      "configuracion": "(5,8,9)",
+      "bispectro": NaN,
+      "tipo": "ESCALENO"
+    },
+    {
+      "configuracion": "(6,9,10)",
+      "bispectro": NaN,
+      "tipo": "ESCALENO"
+    },
+    {
+      "configuracion": "(2,2,2)",
+      "bispectro": -Infinity,
+      "tipo": "EQUILATERO"
+    },
+    {
+      "configuracion": "(3,3,3)",
+      "bispectro": -Infinity,
+      "tipo": "EQUILATERO"
+    },
+    {
+      "configuracion": "(4,4,4)",
+      "bispectro": -Infinity,
+      "tipo": "EQUILATERO"
+    },
+    {
+      "configuracion": "(5,5,5)",
+      "bispectro": NaN,
+      "tipo": "EQUILATERO"
+    },
+    {
+      "configuracion": "(6,6,6)",
+      "bispectro": Infinity,
+      "tipo": "EQUILATERO"
+    }
+  ]
+}

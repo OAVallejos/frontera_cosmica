@@ -1,0 +1,13 @@
+/home/bitnami/frontera_cosmica/rust_final/target/release/deps/pyo3_build_config-6ee6fe7c2d9cb1c4.d: /home/bitnami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.18.3/src/lib.rs /home/bitnami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.18.3/src/errors.rs /home/bitnami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.18.3/src/impl_.rs /home/bitnami/frontera_cosmica/rust_final/target/release/build/pyo3-build-config-61e22d604aa5d56e/out/pyo3-build-config-file.txt /home/bitnami/frontera_cosmica/rust_final/target/release/build/pyo3-build-config-61e22d604aa5d56e/out/pyo3-build-config.txt
+
+/home/bitnami/frontera_cosmica/rust_final/target/release/deps/libpyo3_build_config-6ee6fe7c2d9cb1c4.rlib: /home/bitnami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.18.3/src/lib.rs /home/bitnami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.18.3/src/errors.rs /home/bitnami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.18.3/src/impl_.rs /home/bitnami/frontera_cosmica/rust_final/target/release/build/pyo3-build-config-61e22d604aa5d56e/out/pyo3-build-config-file.txt /home/bitnami/frontera_cosmica/rust_final/target/release/build/pyo3-build-config-61e22d604aa5d56e/out/pyo3-build-config.txt
+
+/home/bitnami/frontera_cosmica/rust_final/target/release/deps/libpyo3_build_config-6ee6fe7c2d9cb1c4.rmeta: /home/bitnami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.18.3/src/lib.rs /home/bitnami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.18.3/src/errors.rs /home/bitnami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.18.3/src/impl_.rs /home/bitnami/frontera_cosmica/rust_final/target/release/build/pyo3-build-config-61e22d604aa5d56e/out/pyo3-build-config-file.txt /home/bitnami/frontera_cosmica/rust_final/target/release/build/pyo3-build-config-61e22d604aa5d56e/out/pyo3-build-config.txt
+
+/home/bitnami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.18.3/src/lib.rs:
+/home/bitnami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.18.3/src/errors.rs:
+/home/bitnami/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.18.3/src/impl_.rs:
+/home/bitnami/frontera_cosmica/rust_final/target/release/build/pyo3-build-config-61e22d604aa5d56e/out/pyo3-build-config-file.txt:
+/home/bitnami/frontera_cosmica/rust_final/target/release/build/pyo3-build-config-61e22d604aa5d56e/out/pyo3-build-config.txt:
+
+# env-dep:OUT_DIR=/home/bitnami/frontera_cosmica/rust_final/target/release/build/pyo3-build-config-61e22d604aa5d56e/out

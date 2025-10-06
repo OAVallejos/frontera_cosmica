@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "archivo_datos": "evidencias_vorticidad.tar.gz",
+    "timestamp": "2025-10-06T16:32:24",
+    "configuraciones_total": 9,
+    "configuraciones_validas": 9,
+    "sistema": "Análisis Corregido v2.0"
+  },
+  "analisis_vorticidad": {
+    "ratio_vorticidad": 0.692641003525193,
+    "media_escaleno": 4.91767840800615e-17,
+    "media_equilatero": 7.09989501484557e-17,
+    "n_escalenos": 6,
+    "n_equilateros": 3,
+    "conclusion": "SIN_EVIDENCIA_VORTICIDAD"
+  },
+  "resultados_detallados": [
+    {
+      "configuracion": "(2,3,4)",
+      "bispectro": 6.3748540025861e-17,
+      "tipo": "ESCALENO",
+      "valido": true
+    },
+    {
+      "configuracion": "(2,4,5)",
+      "bispectro": 5.590681487929909e-17,
+      "tipo": "ESCALENO",
+      "valido": true
+    },
+    {
+      "configuracion": "(3,4,5)",
+      "bispectro": 4.858863550347915e-17,
+      "tipo": "ESCALENO",
+      "valido": true
+    },
+    {
+      "configuracion": "(3,5,6)",
+      "bispectro": 4.082985010257671e-17,
+      "tipo": "ESCALENO",
+      "valido": true
+    },
+    {
+      "configuracion": "(4,5,6)",
+      "bispectro": 4.390692227660457e-17,
+      "tipo": "ESCALENO",
+      "valido": true
+    },
+    {
+      "configuracion": "(4,6,7)",
+      "bispectro": 4.20799416925485e-17,
+      "tipo": "ESCALENO",
+      "valido": true
+    },
+    {
+      "configuracion": "(2,2,2)",
+      "bispectro": 1.0202727578381801e-16,
+      "tipo": "EQUILATERO",
+      "valido": true
+    },
+    {
+      "configuracion": "(3,3,3)",
+      "bispectro": 5.3650021322793116e-17,
+      "tipo": "EQUILATERO",
+      "valido": true
+    },
+    {
+      "configuracion": "(4,4,4)",
+      "bispectro": 5.731955333875596e-17,
+      "tipo": "EQUILATERO",
+      "valido": true
+    }
+  ]
+}

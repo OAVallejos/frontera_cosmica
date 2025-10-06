@@ -1,0 +1,91 @@
+{
+  "archivo": "Modos B Gaussianos",
+  "timestamp": "2025-10-06T16:59:15",
+  "estadisticas_datos": {
+    "n_modos": 100000,
+    "min": -4.531060255885677e-07,
+    "max": 4.2752756712616247e-07,
+    "std": 1.002131426730557e-07
+  },
+  "resultados_bispectro": {
+    "configuraciones_totales": 12,
+    "configuraciones_validas": 0,
+    "ratio_vorticidad": 0,
+    "n_escalenos": 0,
+    "n_equilateros": 0
+  },
+  "resultados_detallados": [
+    {
+      "configuracion": "(2,3,4)",
+      "bispectro": 1.4050748681689739e-22,
+      "tipo": "ESCALENO",
+      "valido": false
+    },
+    {
+      "configuracion": "(2,4,5)",
+      "bispectro": 4.171857146636352e-21,
+      "tipo": "ESCALENO",
+      "valido": false
+    },
+    {
+      "configuracion": "(3,4,5)",
+      "bispectro": -1.3755623826360799e-21,
+      "tipo": "ESCALENO",
+      "valido": false
+    },
+    {
+      "configuracion": "(3,5,6)",
+      "bispectro": -1.7898588771949476e-22,
+      "tipo": "ESCALENO",
+      "valido": false
+    },
+    {
+      "configuracion": "(4,5,6)",
+      "bispectro": 1.5233267082051884e-21,
+      "tipo": "ESCALENO",
+      "valido": false
+    },
+    {
+      "configuracion": "(4,6,7)",
+      "bispectro": -1.6678899498168805e-21,
+      "tipo": "ESCALENO",
+      "valido": false
+    },
+    {
+      "configuracion": "(5,6,7)",
+      "bispectro": 9.140201375610864e-22,
+      "tipo": "ESCALENO",
+      "valido": false
+    },
+    {
+      "configuracion": "(5,7,8)",
+      "bispectro": 1.2585863010775632e-22,
+      "tipo": "ESCALENO",
+      "valido": false
+    },
+    {
+      "configuracion": "(2,2,2)",
+      "bispectro": 7.915798575879964e-21,
+      "tipo": "EQUILATERO",
+      "valido": false
+    },
+    {
+      "configuracion": "(3,3,3)",
+      "bispectro": -4.272477528922319e-21,
+      "tipo": "EQUILATERO",
+      "valido": false
+    },
+    {
+      "configuracion": "(4,4,4)",
+      "bispectro": -9.364439821085368e-22,
+      "tipo": "EQUILATERO",
+      "valido": false
+    },
+    {
+      "configuracion": "(5,5,5)",
+      "bispectro": 1.8699510287560485e-21,
+      "tipo": "EQUILATERO",
+      "valido": false
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "analisis": "analisis_real_v1",
+  "archivo_entrada": "resultados_reales/datos_reales_entrada.csv",
+  "archivo_salida": "resultados_reales/analisis_real_v1_resultados.json",
+  "parametros": {
+    "modos_b_max": 5000,
+    "configuraciones_triangulares": 100,
+    "rango_l_min": 2,
+    "rango_l_max": 100,
+    "tolerancia": 1e-08
+  },
+  "metadatos": {
+    "tipo_datos": "reales",
+    "fuente": "WMAP/Planck",
+    "fecha_analisis": "2025-10-06T11:13:39"
+  }
+}
