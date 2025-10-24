@@ -65,7 +65,7 @@ Si usas este código en tu investigación, por favor cita:
 @software{cosmic_frontier_2024,
   title = {Cosmic Frontier: Vorticity Detection in CMB B-modes},
   author = {Vallejos, Ariel and DeepSeek},
-  year = {2024},
+  year = {2025},
   url = {https://github.com/OAVallejos/frontera_cosmica}
 }
 ```
